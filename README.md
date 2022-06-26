@@ -14,6 +14,7 @@ How to  play the game ?
 2. Clone and run the github repo on your local device and you are good to go.
 
 Demo of the game :
+.
 
 
 
