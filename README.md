@@ -1,12 +1,13 @@
 # SPACEHUB--pygame
 
-This is a game made using the python module pygame, which consists of two elements namely a shooting spaceship and meteors, which you have to shoot using the rocket. 
-However if the position of the rocket and the meteor happen to be the same, it ends in a collision and the game ends. 
+This is a game made using the python module pygame, which consists of two elements namely a moving spaceship and meteors, which you have to dodge using the spaceship controls. 
+However if the position of the spaceship and the meteor happen to be the same, it ends in a collision and the game ends. 
 
 Motivation behind the project :
 
 It was designed as a time-killer game to fight boredom and anxiety. Got nothing to do ? Play a bit of SpaceHub, zone out in the game and have some time off without feeling
 guilty !!!
+It also enhances your focus and brain stimulation
 
 How to  play the game ?
 
