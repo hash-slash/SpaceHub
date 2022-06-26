@@ -1,4 +1,4 @@
-# PYTHON-PROJECT--SPACEHUB--pygame
+# SPACEHUB--pygame
 
 This is a game made using the python module pygame, which consists of two elements namely a shooting spaceship and meteors, which you have to shoot using the rocket. 
 However if the position of the rocket and the meteor happen to be the same, it ends in a collision and the game ends. 
