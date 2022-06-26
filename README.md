@@ -10,11 +10,11 @@ guilty !!!
 
 How to  play the game ?
 
-1. Install pygame using pip install pygame on your local device. (preferably v 2.1.2)
+1. Install pygame using pip install pygame on your local device. (preferably v 2.1.2).
 2. Clone and run the github repo on your local device and you are good to go.
 
 Demo of the game :
-.
+
 
 
 
