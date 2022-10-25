@@ -1,7 +1,7 @@
 # SPACEHUB--pygame
 
-This is a game made using the python module pygame, which consists of two elements namely a moving spaceship and meteors, which you have to dodge using the spaceship controls. 
-However if the position of the spaceship and the meteor happen to be the same, it ends in a collision and the game ends. 
+This game is made using the python module pygame, which consists of two elements namely a moving spaceship and meteors, which you have to dodge using the spaceship controls. 
+However if the coordinates of the spaceship and the obstacle happen to be the same, it ends in a collision and the game ends. 
 
 Motivation behind the project :
 
@@ -22,4 +22,4 @@ Demo of the game :
 https://user-images.githubusercontent.com/78008554/175801539-330bc132-2563-4673-b170-f651c7e6bc72.mp4
 
 
-Happy Gaming !!! See you later !!
+Happy Gaming !!! See you later !! Bye bye !!
