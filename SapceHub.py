@@ -25,7 +25,7 @@ l = [0]
 positive = pygame.mixer.Sound("audio/positive.mp3")
 font = pygame.font.Font("freesansbold.ttf", 38)
 
-# for collision
+# for collision in space 
 
 def iscollision(aestroid_1x, aestroid_1y, ship_x, ship_y):
     distance = abs(math.sqrt((math.pow(aestroid_1x - ship_x, 2) + math.pow(aestroid_1y - ship_y, 2))))
@@ -37,7 +37,7 @@ def iscollision(aestroid_1x, aestroid_1y, ship_x, ship_y):
         return False
 
 
-# gameover function
+# gameover function for the game entity 
 
 def gameover():
 
