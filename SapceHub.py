@@ -4,6 +4,8 @@ import random
 import sys
 import math
 import pygame
+import tinker
+import time
 
 # game variables
 
