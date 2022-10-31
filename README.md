@@ -9,7 +9,7 @@ It was designed as a time-killer game to fight boredom and anxiety. Got nothing 
 guilty !!!
 It also enhances your focus and brain stimulation
 
-How to  play the game ?
+How to  play the game in your local desktop?
 
 1. Install pygame using pip install pygame on your local device. (preferably v 2.1.2).
 2. Clone and run the github repo on your local device and you are good to go.
