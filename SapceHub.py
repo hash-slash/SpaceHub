@@ -1,5 +1,4 @@
 #importing
-
 import random
 import sys
 import math
@@ -112,6 +111,7 @@ def title():
                     pygame.mixer.Sound.play(positive)
                     gameloop()
 
+#adding changes again
                 if event.key == pygame.K_ESCAPE:
                     exit_game = True
                     sys.exit()
